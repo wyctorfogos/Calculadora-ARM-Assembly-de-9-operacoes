@@ -3,8 +3,8 @@ Calculadora ARM Assembly de 7 operações
 - Autor: Wyctor Fogos da Rocha - 2019
 
 Instalar simulador
-- para baixar a versão 1.9.1
-Link:https://connex.csc.uvic.ca/access/content/group/ARMSim/SIMWeb/DownloadARMSimSharp.html
+- Para baixar a versão 1.9.1
+Link: https://connex.csc.uvic.ca/access/content/group/ARMSim/SIMWeb/DownloadARMSimSharp.html
 
 Instruções:
 Aperte um numero do teclado (ele não será computado devido a um erro do simulador);
