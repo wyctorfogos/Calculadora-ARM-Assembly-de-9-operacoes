@@ -1,4 +1,4 @@
-# Calculadora-ARM-Assembly-de-7-opera-es
+# Calculadora-ARM-Assembly-de-7-operações
 Calculadora ARM Assembly de 7 operações
 Autor: Wyctor Fogos da Rocha - 2019
 
