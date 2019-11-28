@@ -1,4 +1,11 @@
  @Wyctor Fogos da Rocha - IEE6 - 2019/2
+ @Local: Laboratorio de Linguagens de Programacao
+ @Engenharia Eletrica
+ @IFES - Campus Vitoria
+ @The ARMSim# Simulator - Copyright R. N. Horpoll, W. D. Lyons and M. Serra
+ @Department of Computer Science, University of Victoria
+ @For use by students undergraduate and graduate
+
 
 .equ Clear_Display, 0x206
 .equ Print_value_in_Display, 0x205
