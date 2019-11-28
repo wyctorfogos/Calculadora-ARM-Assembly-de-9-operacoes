@@ -20,3 +20,5 @@ Operações:
 -Quadrado da diferença
 -Fatorial
 -Arranjo simples
+
+*Obs.: Devido a limitação do simulador, a calculadora trabalha apenas com valores inteiros.
