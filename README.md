@@ -1,4 +1,4 @@
-# Calculadora-ARM-Assembly-de-8-operações
+# Calculadora-ARM-Assembly-de-9-operações
 Calculadora ARM Assembly de 7 operações
 - Autor: Wyctor Fogos da Rocha - 2019
 
@@ -20,5 +20,6 @@ Operações:
 -Quadrado da diferença
 -Fatorial
 -Arranjo simples
+-Combinação
 
 *Obs.: Devido a limitação do simulador, a calculadora trabalha apenas com valores inteiros.
