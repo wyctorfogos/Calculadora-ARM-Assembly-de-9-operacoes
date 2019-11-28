@@ -1,5 +1,5 @@
 # Calculadora-ARM-Assembly-de-9-operações
-Calculadora ARM Assembly de 7 operações
+Calculadora ARM Assembly de 9 operações
 - Autor: Wyctor Fogos da Rocha - 2019
 
 Instalar simulador
